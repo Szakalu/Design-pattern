@@ -1,4 +1,4 @@
-package pl.pattern.factory.abstractt;
+package pl.pattern.creational.factory.abstractt;
 
 public class SUVEngine implements Engine{
 

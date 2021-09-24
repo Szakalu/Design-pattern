@@ -1,13 +1,13 @@
-package pl.pattern.factory.simple;
+package pl.pattern.creational.factory.simple;
 
-public class StrawberryJuice implements Juice{
+public class AppleJuice implements Juice{
 
     private double price;
     private String name;
 
-    public StrawberryJuice(double price) {
+    public AppleJuice(double price) {
         this.price = price;
-        this.name = "Strawberry Juice";
+        this.name = "Apple Juice";
     }
 
     @Override

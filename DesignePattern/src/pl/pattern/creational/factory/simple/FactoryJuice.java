@@ -1,4 +1,4 @@
-package pl.pattern.factory.simple;
+package pl.pattern.creational.factory.simple;
 
 public class FactoryJuice {
 

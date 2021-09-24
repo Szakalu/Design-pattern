@@ -1,4 +1,4 @@
-package pl.pattern.singleton;
+package pl.pattern.creational.singleton;
 
 public class Singleton {
 
